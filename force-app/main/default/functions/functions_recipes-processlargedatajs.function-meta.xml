@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FunctionReference xmlns="http://soap.sforce.com/2006/04/metadata">
+    <description>From a large JSON payload calculates the distance between a supplied point of origin cordinate and the data, sorts it, and returns the nearest x results.</description>
+    <label>processlargedatajs</label>
+</FunctionReference>

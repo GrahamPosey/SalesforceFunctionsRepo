@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FunctionReference xmlns="http://soap.sforce.com/2006/04/metadata">
+    <description>Receives a payload containing Account, Contact, and Case details and uses the Unit of Work pattern.</description>
+    <label>unitofworkjava</label>
+</FunctionReference>

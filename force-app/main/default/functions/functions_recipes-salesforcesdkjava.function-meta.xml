@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FunctionReference xmlns="http://soap.sforce.com/2006/04/metadata">
+    <description>This function takes a payload containing account details, and creates the record. It then uses a SOQL query to return the newly created Account.</description>
+    <label>salesforcesdkjava</label>
+</FunctionReference>
